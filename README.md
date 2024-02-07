@@ -5,7 +5,7 @@
 
 👯 I’m looking to collaborate on Web Development
 
-🤝 I’m looking for help with Self Imrpovement
+🤝 I’m looking for help with Self improvement
 
 👨‍💻 All of my projects are available at https://github.com/MakyyyyyyGG
 
